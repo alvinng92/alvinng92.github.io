@@ -1,8 +1,8 @@
 #TEAM BRAVE BIRD
 
-<img src="https://imgur.com/6YeRMR8" alt="zigzag" />
+<img src="https://imgur.com/6YeRMR8.png" alt="zigzag" />
 
-![Image](https://imgur.com/6YeRMR8)
+![Image](https://imgur.com/6YeRMR8.png)
 ```
 
 
